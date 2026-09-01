@@ -1,4 +1,0 @@
-repository\BookRepository.class
-service\BookService.class
-repository\BookRepositoryImpl.class
-entity\Book.class
